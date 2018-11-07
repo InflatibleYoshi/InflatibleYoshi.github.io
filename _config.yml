@@ -3,7 +3,7 @@ name: ChainChomp.me
 bio: 'Taking a bite out of Blockchain/'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog specifically about the blockchain projects I'm working on.
 
 # if it's an external image, update below for true
 # better with square images
@@ -31,8 +31,8 @@ highlighter: rouge
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
-youtube: UCBJnBkZl7VFVpGl10Duuc-g
-# spotify: myspotify
+youtube: channel/UCBJnBkZl7VFVpGl10Duuc-g
+spotify: user/dandaman7?si=j0WYJn1TS26xjksO6iOskA
 github: InflatibleYoshi
 # medium: medium
 email: dananth@protonmail.com
@@ -53,12 +53,12 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
-teaching: true
+projects: true
+# research: true
+# teaching: true
 # if you don't need about or blog, comment them out below
 about: true
-blog: true
+# blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
