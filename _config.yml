@@ -1,6 +1,6 @@
 # main text of home
-name: Niveditha Ram
-bio: 'Physics, Teaching, Engineering.'
+name: ChainChomp.me
+bio: 'Taking a bite out of Blockchain/'
 
 # twitter summary info
 description: A blog about Physics and teaching science
@@ -26,25 +26,22 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+# twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
-# youtube: myyoutube
+youtube: UCBJnBkZl7VFVpGl10Duuc-g
 # spotify: myspotify
-github: NivedithaRam
+github: InflatibleYoshi
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: dananth@protonmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    DanielAnanth:
+        name: Daniel Ananth
+        bio: SomeNerd.jpg
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
-
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
