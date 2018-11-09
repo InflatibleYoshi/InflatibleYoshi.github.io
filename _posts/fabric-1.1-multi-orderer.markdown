@@ -2,6 +2,7 @@
 title: "Fabric 1.1 Multi Machine / Kafka Orderer"
 layout: post
 tag: markdown
+img: indigo/indigo.png
 projects: true
 draft: false
 author: DanielAnanth
