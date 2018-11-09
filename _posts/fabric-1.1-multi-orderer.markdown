@@ -1,7 +1,7 @@
 ---
 title: "Fabric 1.1 Multi Machine / Kafka Orderer"
 layout: post
-tag: fabric
+tag: markdown
 projects: true
 author: DanielAnanth
 summary: "Fabric 1.1 Multi Machine / Kafka Orderer"
