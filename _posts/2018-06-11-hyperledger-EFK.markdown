@@ -7,7 +7,7 @@ projects: true
 draft: false
 author: DanielAnanth
 summary: "Hyperledger on Kubernetes + EFK"
-jemoji: '<img class="emoji" title=":books:" alt=":books:" src="https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/11rA5_aU-6481o6j7mrYANBY6mEpKyz2yBRJM8JB_0N4GGvzY2VavIL5K-kfgFln.svg" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title="fabric" alt="fabric" src="https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/11rA5_aU-6481o6j7mrYANBY6mEpKyz2yBRJM8JB_0N4GGvzY2VavIL5K-kfgFln.svg" height="20" width="20" align="absmiddle">'
 ---
 
 # hyperledger-efk
