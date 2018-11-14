@@ -13,8 +13,7 @@ jemoji: '<img class="emoji" title="fabric" alt="fabric" src="https://digitalmark
 <p>Here's a rundown of installing Hyperledger Fabric 0.6 + Explorer on a Ubuntu 16.04 install:
 First things first, install all the prerequisites:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-cd ~
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd ~
 sudo apt update &amp;&amp; sudo apt upgrade
 sudo apt install git make gcc g++ libltdl-dev curl python pkg-config nfs-common -y
 curl -fsSL test.docker.com | sh
@@ -26,8 +25,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 <p>Download the docker-compose files and separate the hyperledger files from the rest:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-git clone https://github.com/yeasy/docker-compose-files
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/yeasy/docker-compose-files
 cd docker-compose-files
 cp -R hyperledger ..
 cd ..
@@ -36,8 +34,7 @@ rm -rf docker-compose-files
 
 <p>Run the following commands to start the hyperledger network on docker compose.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-docker pull yeasy/hyperledger-fabric:0.6-dp \
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker pull yeasy/hyperledger-fabric:0.6-dp \
     && docker pull yeasy/hyperledger-fabric-peer:0.6-dp \
     && docker pull yeasy/hyperledger-fabric-base:0.6-dp \
     && docker pull yeasy/blockchain-explorer:latest \
@@ -50,11 +47,10 @@ nohup docker-compose -f 4-peers-with-explorer.yml up &
 
 <p>You can see the progress of the docker compose command by typing:</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-cat nohup.out
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cat nohup.out
 </code></pre></div></div>
 
-<p>Assuming everything worked navigate your browser to http://<host machine ip>:9090.</p>
+<p>Assuming everything worked navigate your browser to http://{host machine ip}:9090.</p>
 
 <br>
 

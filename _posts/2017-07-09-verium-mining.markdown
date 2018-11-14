@@ -31,7 +31,7 @@ The third step is to install VeriumMiner onto your ubuntu installation and this 
 sudo apt-get install automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++ git
 ```
 
-Install VeriumMiner:
+### Install VeriumMiner:
 
 ```
 git clone https://github.com/effectsToCause/veriumMiner
@@ -41,7 +41,7 @@ cd veriumMiner
 make
 ```
 
-Next you should join a mining pool in order to get a stable income with mining.Sign up with the receive address you found and create a worker with a username and password.
+Next you should join a mining pool in order to get a stable income with mining. Sign up with the receive address you found and create a worker with a username and password.
 
 Run veriumMiner with the following command (while you are inside the veriumMiner folder).
 
