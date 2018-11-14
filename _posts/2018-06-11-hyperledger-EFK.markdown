@@ -1,16 +1,14 @@
 ---
-title: "Hyperledger on Kubernetes + EFK"
+title: "Fabric 1.0 on Kubernetes + EFK"
 layout: post
 tag: walkthrough
 img: indigo/indigo.png
 projects: true
 draft: false
 author: DanielAnanth
-summary: "Hyperledger on Kubernetes + EFK"
+summary: "Fabric 1.0 on Kubernetes + EFK"
 jemoji: '<img class="emoji" title="fabric" alt="fabric" src="https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/11rA5_aU-6481o6j7mrYANBY6mEpKyz2yBRJM8JB_0N4GGvzY2VavIL5K-kfgFln.svg" height="20" width="20" align="absmiddle">'
 ---
-
-# hyperledger-efk
 
 This documentation describes how to deploy the IBM Blockchain Platform (Hyperledger Fabric 1.0.x + Composer 0.16.x) on minikube alongside a Elasticsearch + fluentd + Kibana stack.
 
