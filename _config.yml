@@ -22,7 +22,7 @@ highlighter: rouge
 #analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -40,7 +40,7 @@ email: dananth@protonmail.com
 authors:
     DanielAnanth:
         name: Daniel Ananth
-        bio: SomeNerd.jpg
+        bio: Foolin with tech
         external-image: false
 
 # do you want a larger site? change the option below
@@ -72,7 +72,7 @@ related: true
 blog-nav-links: true
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
