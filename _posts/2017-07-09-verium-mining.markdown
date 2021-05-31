@@ -7,7 +7,7 @@ projects: true
 draft: false
 author: DanielAnanth
 summary: "CPU-Friendly Currencies: Mining on Older Machines"
-jemoji: '<img class="emoji" title="mining" alt="mining" src="https://cdn.worldvectorlogo.com/logos/ethereum.svg" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title="ethereum" alt="ethereum" src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" height="20" width="20" align="absmiddle">'
 ---
 
 
