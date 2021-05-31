@@ -7,7 +7,7 @@ projects: true
 draft: false
 author: DanielAnanth
 summary: "Creating a private Ethereum testnet with Swarm in Ubuntu"
-jemoji: '<img class="emoji" title="ethereum" alt="ethereum" src="src/images/ethereum.svg" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title="ethereum" alt="ethereum" src="https://cdn.worldvectorlogo.com/logos/ethereum.svg" height="20" width="20" align="absmiddle">'
 ---
 
 Ethereum testrpc is the default version of ethereum that you can use to test your Dapps using truffle. its methods are suitable for most of the functions that you'd want to implement, however they do not include connecting to __Swarm__, ethereum's persistent file storage protocol (It is important to note that both of these are in development so use Swarm at your own risk).  
